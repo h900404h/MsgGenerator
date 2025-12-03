@@ -1,0 +1,4 @@
+to,cc,filename_suffix
+user01@example.com,"staff01@example.com; staff02@example.com",UserA
+user02@example.com,"staff01@example.com; staff02@example.com",UserB
+sample@example.com,"staff01@example.com; staff02@example.com",Sample
